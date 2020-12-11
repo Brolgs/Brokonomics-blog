@@ -1,0 +1,5 @@
+git clone https://github.com/Brolgs / mundana-theme-jekyll.git
+git checkout -b <my-new-feature-or-fix>
+git add .
+git commit -m "new feature or fix"
+git push origin <my-new-feature-or-fix>
